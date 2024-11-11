@@ -1,0 +1,7 @@
+﻿  ProyectoFinalMenu1.cpp
+C:\Users\manur\OneDrive\Documentos\Dev\ProjecFinal1\ProjectFinal\ProyectoFinalMenu1.cpp(191,34): warning C4244: 'argumento': conversión de '__int64' a 'int'; posible pérdida de datos
+C:\Users\manur\OneDrive\Documentos\Dev\ProjecFinal1\ProjectFinal\ProyectoFinalMenu1.cpp(192,34): warning C4244: 'argumento': conversión de '__int64' a 'int'; posible pérdida de datos
+C:\Users\manur\OneDrive\Documentos\Dev\ProjecFinal1\ProjectFinal\ProyectoFinalMenu1.cpp(193,34): warning C4244: 'argumento': conversión de '__int64' a 'int'; posible pérdida de datos
+C:\Users\manur\OneDrive\Documentos\Dev\ProjecFinal1\ProjectFinal\ProyectoFinalMenu1.cpp(440,18): error C3861: 'contarBisiestos': no se encontró el identificador
+C:\Users\manur\OneDrive\Documentos\Dev\ProjecFinal1\ProjectFinal\ProyectoFinalMenu1.cpp(435,12): error C4996: 'localtime': This function or variable may be unsafe. Consider using localtime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\manur\OneDrive\Documentos\Dev\ProjecFinal1\ProjectFinal\ProyectoFinalMenu1.cpp(492,13): error C4996: 'localtime': This function or variable may be unsafe. Consider using localtime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.

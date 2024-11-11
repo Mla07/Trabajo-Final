@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\manur\\OneDrive\\Documentos\\Dev\\ProjecFinal1\\ProjectFinal\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DDFE400A-E76C-4FF1-9E86-E256461BEE6D}|ProjectFinal.vcxproj|C:\\Users\\manur\\OneDrive\\Documentos\\Dev\\ProjecFinal1\\ProjectFinal\\ProyectoFinalMenu1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DDFE400A-E76C-4FF1-9E86-E256461BEE6D}|ProjectFinal.vcxproj|solutionrelative:ProyectoFinalMenu1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProyectoFinalMenu1.cpp",
+              "DocumentMoniker": "C:\\Users\\manur\\OneDrive\\Documentos\\Dev\\ProjecFinal1\\ProjectFinal\\ProyectoFinalMenu1.cpp",
+              "RelativeDocumentMoniker": "ProyectoFinalMenu1.cpp",
+              "ToolTip": "C:\\Users\\manur\\OneDrive\\Documentos\\Dev\\ProjecFinal1\\ProjectFinal\\ProyectoFinalMenu1.cpp",
+              "RelativeToolTip": "ProyectoFinalMenu1.cpp",
+              "ViewState": "AgIAALcBAAAAAAAAAAAewLYBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-11T18:33:50.821Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
